@@ -9,4 +9,4 @@ Estudiante de programación a distancia de la UTN.
 - HTML
 - CSS
 - JavaScript
-- SQL
+- Base de datos SQL y No SQL
