@@ -2,4 +2,4 @@
 
 ## Sobre Mí
 
-Estudiante de programación a distancia de la UTN.
+Estudiante de programación a distancia de la UTN 2026.
